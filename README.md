@@ -1,7 +1,7 @@
 # ViewPagerWithoutFragment
 
 
-When I am learning [Advocating Against Android Fragments](https://medium.com/square-corner-blog/advocating-against-android-fragments-81fd0b462c97#.bgpsgmedx) , and I have a problem, I don't knwo how to use ViewPager without using Fragment, so i Fount [this](https://www.bignerdranch.com/blog/viewpager-without-fragments/) , but their is no sample code, so I write this to exercise.
+When I am learning [Advocating Against Android Fragments](https://medium.com/square-corner-blog/advocating-against-android-fragments-81fd0b462c97#.bgpsgmedx) , and I have a problem, I don't knwo how to use ViewPager without using Fragment, so i fount [this](https://www.bignerdranch.com/blog/viewpager-without-fragments/) , but their is no sample code, so I write this to exercise.
 
 
 這個專案是我在學習 [Advocating Against Android Fragments](https://medium.com/square-corner-blog/advocating-against-android-fragments-81fd0b462c97#.bgpsgmedx) 時，
