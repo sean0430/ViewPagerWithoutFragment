@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.nanastudio.sean.viewpagerwithoutfragment.views.RedView
+    android:background="#ff0000"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rvFruit"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</com.nanastudio.sean.viewpagerwithoutfragment.views.RedView>
